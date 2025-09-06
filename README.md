@@ -16,9 +16,10 @@ Local storage support
 
 ## 📸 Screenshots
 
-![Home Page] 
-<img width="1346" height="611" alt="Screenshot_2" src="https://github.com/user-attachments/assets/b91fa70a-572d-43dd-816a-0f301994e29a" />
- <img width="1305" height="582" alt="Screenshot_1" src="https://github.com/user-attachments/assets/a08e4b2e-0b8c-42ac-896e-ff79301e0e90" />
+<img width="1346" height="611" alt="Screenshot_2" src="https://github.com/user-attachments/assets/752511b8-84ad-4ac5-80f0-6d6d466c21e5" />
+
+ <img width="1305" height="582" alt="Screenshot_1" src="https://github.com/user-attachments/assets/9e3a8e40-fd6d-4566-b20e-b71fffb71c8b" />
+
 
 
 
